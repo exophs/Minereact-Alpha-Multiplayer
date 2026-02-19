@@ -1,5 +1,0 @@
-{
-  "name": "MineReact Alpha",
-  "description": "A voxel sandbox game clone inspired by Minecraft Alpha (2010). Features procedural textures, block placing/breaking, inventory system, and first-person movement.",
-  "requestFramePermissions": []
-}
